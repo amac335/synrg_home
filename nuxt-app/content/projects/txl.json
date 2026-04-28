@@ -1,0 +1,47 @@
+{
+  "project": "TXL",
+  "version": "2.0.0",
+  "codename": "Evolution",
+  "prequel": "GameChanger Manual",
+  "status": "Production-Ready",
+  "core_domain": {
+    "industry": "Professional Accounting & Advisory",
+    "market": "Canada",
+    "logic_preservation": "100%"
+  },
+  "technical_stack": {
+    "runtime": "Bun",
+    "framework": "Nuxt 4",
+    "frontend": "Vue 3 / Tailwind CSS",
+    "database": "Postgres (Primary) / SQLite (Edge)",
+    "infrastructure": "Cloudflare Pages & Workers"
+  },
+  "agentic_features": {
+    "machine_readable": true,
+    "llm_optimized": true,
+    "protocol_delivery": "Structured JSON-Schema",
+    "latency_target": "<100ms"
+  },
+  "pillars": [
+    {
+      "id": "modernized_core",
+      "title": "Modernized Core Architecture",
+      "description": "High-performance foundation built for sub-100ms response times and architectural longevity."
+    },
+    {
+      "id": "agentic_layer",
+      "title": "Agentic Integration Layer",
+      "description": "Specifically engineered to allow LLMs to navigate and execute firm protocols with zero hallucination."
+    },
+    {
+      "id": "ecosystem_bridges",
+      "title": "Universal API Framework",
+      "description": "Flexible bridges extending utility across legacy accounting platforms and modern cloud portals."
+    }
+  ],
+  "metrics": {
+    "production_history": "10+ years",
+    "integration_capacity": "Unlimited / Universal API",
+    "data_integrity": "Atomic"
+  }
+}
