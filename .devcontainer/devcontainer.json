@@ -1,0 +1,21 @@
+{
+  "name": "Bun & Database Environment",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      },
+      "extensions": [
+        "Vue.volar",
+        "nuxtr.nuxtr-vscode",
+        "mtxr.sqltools",
+        "mtxr.sqltools-driver-pg",
+        "mtxr.sqltools-driver-sqlite"
+      ]
+    }
+  },
+  "forwardPorts": [3000]
+}
